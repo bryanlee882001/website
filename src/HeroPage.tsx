@@ -47,16 +47,16 @@ const HeroPage = () => {
 
       {/* Links to resume, linkedin, and github */}
       <div className="links_container">
-        <a href="assets/Bryan_Resume.pdf" type="application/pdf" target="blank">Resume</a>
-        <a href="https://www.linkedin.com/in/bryanleeyensheng/" target="blank">LinkedIn</a>
-        <a href="https://github.com/bryanlee882001" target="blank">GitHub</a>
+        <a href="assets/Bryan_Resume.pdf" type="application/pdf">Resume</a>
+        <a href="https://www.linkedin.com/in/bryanleeyensheng/">LinkedIn</a>
+        <a href="https://github.com/bryanlee882001">GitHub</a>
         <a href="mailto:bryanleeyensheng@gmail.com">Contact</a>
       </div>
 
       {/* Introduction */}
       <div className="description_container">
-        <p>Based in Minneapolis, MN. I'm currently a Data Engineer Intern @ <a href="https://www.bfcsoftware.com/" target="blank">BFC Software </a>
-        where I build & optimize data pipelines to scale with the growing needs of our data infrastructure. I am particularly interested in Distributed
+        <p>Based in Minneapolis, MN. I'm currently a Data Engineer & Analytics Intern @ <a href="https://www.bfcsoftware.com/" target="blank">BFC Software </a>
+        where I build, optimize, and monitor data pipelines to scale with the growing needs of our data infrastructure. I am particularly interested in Distributed
         computing and Big data processing/analytics.</p>
 
         <br/><br/>
