@@ -57,13 +57,13 @@ const HeroPage = () => {
       <div className="description_container">
         <p>Based in Minneapolis, MN. I'm currently a Data Engineer & Analytics Intern @ <a href="https://www.bfcsoftware.com/" target="blank">BFC Software </a>
         where I build, optimize, and monitor data pipelines to scale with the growing needs of our data infrastructure. I am particularly interested in Distributed
-        computing and Big data processing/analytics.</p>
+        Computing and Big Data Processing/analytics.</p>
 
         <br/><br/>
 
         <p>Concurrently, I contribute to research at the University of Minnesota, where I lead the development 
-        of the <a href="https://github.com/bryanlee882001/AIMSES" target="blank">Auroral Ionospheric Magnetospheric Statistical Electron Spectra (AIMSES)</a> project @ <a href="https://cse.umn.edu/physics" target="blank">School of Physics & Astronomy</a>, 
-        as well as assisting in the development of Electrocardiogram (ECG) compression algorithms and data tools for cardiac monitoring @ <a href="https://dcsg.cs.umn.edu/" target="blank">Distributed Computing Systems Group</a>.</p>
+        of the Auroral Ionospheric Magnetospheric Statistical Electron Spectra (AIMSES) project @ <a href="https://cse.umn.edu/physics" target="blank">School of Physics & Astronomy</a>, 
+        as well as assisting in the research & development of Electrocardiogram (ECG) compression algorithms and data tools for cardiac monitoring @ <a href="https://dcsg.cs.umn.edu/" target="blank">Distributed Computing Systems Group</a>.</p>
 
         <br/><br/>
 
