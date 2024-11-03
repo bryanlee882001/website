@@ -47,7 +47,7 @@ const HeroPage = () => {
 
       {/* Links to resume, linkedin, and github */}
       <div className="links_container">
-        <a className="text_link" href="assets/Bryan_Resume.pdf" type="application/pdf">Resume</a>
+        {/* <a className="text_link" href="assets/Bryan_Resume.pdf" type="application/pdf">Resume</a> */}
         <a className="text_link" href="https://www.linkedin.com/in/bryanleeyensheng/">LinkedIn</a>
         <a className="text_link" href="https://github.com/bryanlee882001">GitHub</a>
         <a className="text_link" href="mailto:bryanleeyensheng@gmail.com">Contact</a>
