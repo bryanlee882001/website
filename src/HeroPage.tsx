@@ -1,6 +1,5 @@
 import "./HeroPage.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
-import { TypeAnimation } from "react-type-animation";
 import { useState } from "react";
 
 const HeroPage = () => {
