@@ -31,7 +31,8 @@ const HeroPage = () => {
       <div className="title_container">
         <h1>Hi,I'm Bryan.</h1>
         <h2>
-          <TypeAnimation
+          Software Engineer
+          {/* <TypeAnimation
             sequence={[
               "Software Engineer",
               1000,
@@ -42,7 +43,7 @@ const HeroPage = () => {
             ]}
             speed={50}
             repeat={Infinity}
-          />
+          /> */}
         </h2>
       </div>
 
@@ -66,14 +67,13 @@ const HeroPage = () => {
       {/* Introduction */}
       <div className="description_container">
         <p>
-          Based in San Francisco, CA, I’m currently a Data Engineer @{" "}
+          Based in San Francisco, CA, I currently work @{" "}
           <a className="text_link" href="https://www.meta.com">
             Meta
           </a>
-          , where I build petabyte-scale data pipelines and scalable
-          experimentation platforms across GenAI products within Meta’s Ads
-          platform. My work focuses on designing reliable, fault-tolerant data
-          systems that accelerate product development.
+          , where I build scalable systems supporting petabyte-scale data
+          processing and experimentation platforms across GenAI products within
+          Meta’s Ads platform.
         </p>
 
         <br />
@@ -84,10 +84,10 @@ const HeroPage = () => {
           <a className="text_link" href="https://www.bfcsoftware.com/">
             BFC Software Inc
           </a>
-          , where I built scalable data infrastructure for distributed data
-          processing, developed workflow orchestrations, and implemented
-          monitoring frameworks to ensure system reliability. I've also worked
-          as a Software Engineer Intern @{" "}
+          , where I worked on data infrastructure — building distributed data
+          processing systems, workflow orchestration, and monitoring frameworks
+          to ensure system reliability. I've also worked as a Software Engineer
+          Intern @{" "}
           <a
             className="text_link"
             href="https://www.keysight.com/us/en/home.html"
